@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779499526091",
+    "project_id": "sykaris-4d64f",
+    "storage_bucket": "sykaris-4d64f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779499526091:android:80853abe41cc6e0841884e",
+        "android_client_info": {
+          "package_name": "com.zakur.sykaris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779499526091-gffap3p83q9d6bfj6km1qi6fj8d2fiks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD5qY5AFDWjWVtDfiTbDBYzY0aOT_h0zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779499526091-gffap3p83q9d6bfj6km1qi6fj8d2fiks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
